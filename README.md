@@ -11,7 +11,7 @@ Functions to calculate the national prevalence (population-weighted mean of the 
 Install your package using the following code:
 
 ``` r
-devtools::install_github("marianne-s/task2pckg")
+devtools::install_github("marianne-s/task4")
 ```
 
 ## Example
@@ -22,4 +22,3 @@ library(task2pckg)
 ## basic example code
 ```
 
-# task4
