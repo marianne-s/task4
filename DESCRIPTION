@@ -1,0 +1,18 @@
+Package: task2pckg
+Title: Function to calculate the national prevalence,population-weighted mean of two zones, per years for an intervention
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Marianne",
+           family = "Seijo",
+           role = c("aut", "cre"),
+           email = "marianne.seijo@gmail.com",
+           comment = c(ORCID = "0000-0002-5774-9819"))
+Description: task2pckg contain popmean, a function to calculate the national prevalence (population-weighted mean of the two zones) assaying module significance against background and temporal variability in module score( it is an exercise for Comp. Statistician / R Developper). 
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
