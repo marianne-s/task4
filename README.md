@@ -8,15 +8,14 @@ Functions to calculate the national prevalence (population-weighted mean of the 
 
 ## Installation
 
-You can install the released version of task2pckg from [CRAN](https://CRAN.R-project.org) with:
+Install your package using the following code:
 
 ``` r
-install.packages("task2pckg")
+devtools::install_github("marianne-s/task2pckg")
 ```
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(task2pckg)
